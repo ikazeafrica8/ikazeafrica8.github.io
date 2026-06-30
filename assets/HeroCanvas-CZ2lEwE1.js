@@ -1,0 +1,1 @@
+import{j as r,C as e}from"./three-DDpX55-x.js";import{C as a}from"./CardFan-BEMeK3V7.js";import"./index-De2hB-cw.js";function s(){return r.jsx(e,{camera:{position:[0,0,6],fov:38},dpr:[1,2],gl:{antialias:!0,alpha:!0,powerPreference:"high-performance"},style:{pointerEvents:"none"},children:r.jsx(a,{})})}export{s as default};
