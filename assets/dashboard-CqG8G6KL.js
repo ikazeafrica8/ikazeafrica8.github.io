@@ -1,0 +1,1 @@
+const e=["overview","compliance","revenue","risk","properties","movements","payments","districts"],s={overview:"Overview",compliance:"Compliance",revenue:"Revenue (Illustrative)",risk:"Risk & AI Flags",properties:"Properties",movements:"Tenancy & Movement",payments:"Payments",districts:"Districts"};export{e as D,s as a};

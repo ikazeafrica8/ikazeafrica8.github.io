@@ -1,0 +1,1 @@
+import{j as e}from"./three-DDpX55-x.js";import{k as i,s as a}from"./index-CAbtq5Qe.js";function o({children:s,className:t,inline:r}){return e.jsxs("span",{className:a(r?"inline-flex":"flex","items-center gap-2 flex-wrap",t),children:[s,e.jsx(i,{kind:"illustrative",compact:!0})]})}export{o as I};

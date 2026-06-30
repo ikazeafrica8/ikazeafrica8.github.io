@@ -1,0 +1,4 @@
+# RITAD — synthetic-data demonstration prototype (not a live government system).
+# Crawlable for the public demo; all content is clearly labelled as synthetic.
+User-agent: *
+Allow: /

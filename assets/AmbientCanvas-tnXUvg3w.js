@@ -1,0 +1,1 @@
+import{j as e,C as r}from"./three-DDpX55-x.js";import{A as n}from"./AmbientField-AKXGxa6f.js";function o(){return e.jsx(r,{style:{pointerEvents:"none"},camera:{position:[0,0,6],fov:40},dpr:[1,2],gl:{antialias:!0,alpha:!0,powerPreference:"high-performance"},children:e.jsx(n,{count:200})})}export{o as default};

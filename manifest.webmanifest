@@ -1,0 +1,1 @@
+{"name":"RITAD — Rental Income Tax Administration (Demo)","short_name":"RITAD","description":"Synthetic-data demonstration prototype. Not an approved or live system.","start_url":"/","display":"standalone","background_color":"#F4F8F5","theme_color":"#0E7A3A","lang":"en","scope":"/","icons":[{"src":"/icons/ritad.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}

@@ -1,0 +1,6 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="RITAD">
+  <circle cx="32" cy="32" r="29" fill="#06351A"></circle>
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#E0741C" stroke-width="4"></circle>
+  <text x="32.5" y="44" text-anchor="middle" fill="#FFFFFF" font-family="&#39;IBM Plex Sans&#39;,&#39;Inter&#39;,sans-serif" font-weight="700" font-size="36">R</text>
+</svg>
